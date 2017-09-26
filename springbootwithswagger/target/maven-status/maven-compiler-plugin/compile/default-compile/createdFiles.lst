@@ -1,0 +1,8 @@
+com\controllers\Application.class
+com\services\ProductService.class
+com\services\ProductServiceImpl.class
+com\controllers\ProductController.class
+com\dboperations\MongoOperations.class
+com\dboperations\ProductCrudOperations.class
+com\controllers\SwaggerConfig.class
+com\model\Product.class
